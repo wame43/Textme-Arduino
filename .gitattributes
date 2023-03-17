@@ -41,3 +41,4 @@ void updateSerial()
     Serial.write(mySerial.read());//Forward what Software Serial received to Serial Port
   }
 }
+// conections _link- https://drive.google.com/file/d/1zi07hJ_p9NOVkkjZpmbGOV2wMQj7gF1N/view?usp=sharing
